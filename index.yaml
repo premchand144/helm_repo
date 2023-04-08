@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitrepotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-08T21:26:47.865261+05:30"
+    description: Helm chart to add on github chartmuseum
+    digest: 18876dbd02d37a38330374b7081bcc96116f59f657cd815e7a915491f3b2fc47
+    name: gitrepotest
+    type: application
+    urls:
+    - gitrepotest-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-08T21:26:47.8642617+05:30"
